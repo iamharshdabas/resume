@@ -1,0 +1,14 @@
+[
+  {
+    "category": "Programming Languages",
+    "skills": "TypeScript, JavaScript, HTML/CSS, and GLSL."
+  },
+  {
+    "category": "Front End Development",
+    "skills": "React, Refine, ThreeJS, and React Three Fiber."
+  },
+  {
+    "category": "Back End Development",
+    "skills": "Node.js, MongoDB, RESTful APIs, and Supabase."
+  }
+]

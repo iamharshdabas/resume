@@ -1,0 +1,20 @@
+[
+  {
+    "type": "email",
+    "icon": "Mail",
+    "href": "mailto:iamharshdabas@gmail.com",
+    "text": "iamharshdabas@gmail.com"
+  },
+  {
+    "type": "github",
+    "icon": "Github",
+    "href": "https://github.com/iamharshdabas",
+    "text": "github.com/iamharshdabas"
+  },
+  {
+    "type": "phone",
+    "icon": "Phone",
+    "href": "tel:+918810576690",
+    "text": "+91 88105 76690"
+  }
+]

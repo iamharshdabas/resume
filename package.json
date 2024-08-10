@@ -11,8 +11,10 @@
     "format": "prettier --write '**/*.{js,jsx,ts,tsx,json,css,scss,md}' --ignore-path .prettierignore"
   },
   "dependencies": {
+    "lucide-react": "^0.427.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.4.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.8.0",

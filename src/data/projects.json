@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Wild Rose",
+    "url": "https://wild-rose.pages.dev/",
+    "description": "Built a dynamic dashboard with React, MUI, and Supabase, featuring real-time data updates and secure user authentication."
+  },
+  {
+    "title": "Pizza Menu",
+    "url": "https://pizza-menu.pages.dev/",
+    "description": "Developed an interactive pizza menu app using React, TailwindCSS, and Redux, allowing users to customize orders easily."
+  },
+  {
+    "title": "World Wise",
+    "url": "https://world-wise.pages.dev/",
+    "description": "Created a travel tracker with React, Leaflet, and Three.js, featuring secure location tracking and an engaging 2D map."
+  },
+  {
+    "title": "Galaxy Generator",
+    "url": "https://galaxy-generator.pages.dev/",
+    "description": "Designed an interactive galaxy generator with Three.js for a visually stunning galaxy creation experience."
+  },
+  {
+    "title": "Cynthia Ugwu",
+    "url": "https://cynthia-ugwu.pages.dev/",
+    "description": "Cloned an Awwwards-winning site using GSAP and Three.js, demonstrating advanced animations and 3D graphics."
+  }
+]
